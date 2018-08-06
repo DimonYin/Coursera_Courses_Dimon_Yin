@@ -49,8 +49,23 @@ def build_plot_values(gdpinfo, gdpdata):
       exist in gdpdata.  The year will be an integer and the GDP will
       be a float.
     """
-    return []
+    list1 = []  # convert dictionary to list of lists
+    for year in gdpdata:
+        if str.isdigit(year):
+            if int(year) >= gdpinfo["min_year"]:
+                if int(year) <= gdpinfo["max_year"]:
+                    if gdpdata[year] != "":
+                        tuple1 = (int(year), float(gdpdata[year]))
+                        list1.append(tuple1)
 
+    for num in range(0,len(list1)):     # sort this list
+        for num1 in range(num+1, len(list1)):
+            if list1[num][0] > list1[num1][0]:
+                temp = list1[num]
+                list1[num] = list1[num1]
+                list1[num1] = temp
+
+    return list1
 
 def build_plot_dict(gdpinfo, country_list):
     """
@@ -67,6 +82,8 @@ def build_plot_dict(gdpinfo, country_list):
       CSV file should still be in the output dictionary, but
       with an empty XY plot value list.
     """
+
+
     return {}
 
 
