@@ -58,7 +58,7 @@ def build_plot_values(gdpinfo, gdpdata):
                         tuple1 = (int(year), float(gdpdata[year]))
                         list1.append(tuple1)
 
-    for num in range(0,len(list1)):     # sort this list
+    for num in range(0, len(list1)):     # sort this list
         for num1 in range(num+1, len(list1)):
             if list1[num][0] > list1[num1][0]:
                 temp = list1[num]
@@ -83,9 +83,26 @@ def build_plot_dict(gdpinfo, country_list):
       with an empty XY plot value list.
     """
 
+    filename = gdpinfo['gdpfile']
+    keyfield = gdpinfo['country_name']
+    separator = gdpinfo['separator']
+    quote = gdpinfo['quote']
 
-    return {}
+    dic1 = read_csv_as_nested_dict(filename, keyfield, separator, quote)
 
+    dic2 = {}
+    for country in country_list:
+        for dic in dic1:
+            if country == dic:
+                dic2[country] = build_plot_values(gdpinfo, dic1[dic])
+
+    for country in country_list:
+        if country in dic2:
+            pass
+        else:
+            dic2[country] = []
+
+    return dic2
 
 def render_xy_plot(gdpinfo, country_list, plot_file):
     """
@@ -102,8 +119,16 @@ def render_xy_plot(gdpinfo, country_list, plot_file):
       specified by gdpinfo for the countries in country_list.
       The image will be stored in a file named by plot_file.
     """
-    return
+    dic1 = build_plot_dict(gdpinfo, country_list)
 
+    xy_chart = pygal.XY(stroke=False)
+    xy_chart.title = 'GDP for Countries'
+    for dic in dic1:
+        xy_chart.add(dic, dic1[dic])
+    xy_chart.render_to_file(plot_file)
+    xy_chart.render_in_browser()
+
+    return
 
 def test_render_xy_plot():
     """
@@ -129,4 +154,4 @@ def test_render_xy_plot():
 # Make sure the following call to test_render_xy_plot is commented out
 # when submitting to OwlTest/CourseraTest.
 
-# test_render_xy_plot()
+test_render_xy_plot()
