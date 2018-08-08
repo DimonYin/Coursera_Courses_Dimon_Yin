@@ -131,14 +131,13 @@ def render_world_map(gdpinfo, plot_countries, year, map_file):
     """
 
     dic1 = build_map_dict_by_name(gdpinfo, plot_countries, year)[0]
+    print(dic1)
     set1 = build_map_dict_by_name(gdpinfo, plot_countries, year)[1]
     set2 = build_map_dict_by_name(gdpinfo, plot_countries, year)[2]
 
     worldmap_chart = pygal.maps.world.World()
     worldmap_chart.title = "GDP of Countries"
     worldmap_chart.add("Existed GDP Data", dic1)
-    worldmap_chart.add("Missed GDP Data", set1)
-    worldmap_chart.add("No GDP Data", set2)
     worldmap_chart.render(map_file)
     worldmap_chart.render_in_browser()
 
