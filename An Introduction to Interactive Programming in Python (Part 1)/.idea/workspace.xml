@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e42cb7d-ead6-491a-ae51-d02b56767ce7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week3/111.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/An Introduction to Interactive Programming in Python (Part 1).iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/An Introduction to Interactive Programming in Python (Part 1).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3/111.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3/Guess_the_number.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,45 +17,40 @@
     <session id="-117047327">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.2" value="3" />
-          <entry key="project.open.time.3" value="6" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.3" value="8" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1332" />
+          <entry key="py" value="1432" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1332" />
+          <entry key="Python" value="1432" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week3/111.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,12 +70,13 @@
         <option value="$PROJECT_DIR$/week1/Rock-paper-scissors-lizard-Spock.py" />
         <option value="$PROJECT_DIR$/week2/Quiz2a.py" />
         <option value="$PROJECT_DIR$/week3/111.py" />
+        <option value="$PROJECT_DIR$/week3/Guess_the_number.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="286" />
-    <option name="y" value="239" />
+    <option name="x" value="262" />
+    <option name="y" value="106" />
     <option name="width" value="1508" />
     <option name="height" value="770" />
   </component>
@@ -89,6 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,11 +100,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -118,7 +117,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Quiz2a">
+  <component name="RunManager" selected="Python.Guess_the_number">
+    <configuration name="Guess_the_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="An Introduction to Interactive Programming in Python (Part 1)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3/Guess_the_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Quiz1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="An Introduction to Interactive Programming in Python (Part 1)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,11 +206,13 @@
       <item itemvalue="Python.Quiz1" />
       <item itemvalue="Python.Rock-paper-scissors-lizard-Spock" />
       <item itemvalue="Python.Quiz2a" />
+      <item itemvalue="Python.Guess_the_number" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Quiz2a" />
+        <item itemvalue="Python.Guess_the_number" />
         <item itemvalue="Python.Rock-paper-scissors-lizard-Spock" />
+        <item itemvalue="Python.Quiz2a" />
         <item itemvalue="Python.Quiz1" />
       </list>
     </recent_temporary>
@@ -209,10 +231,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="286" y="239" width="1508" height="770" extended-state="0" />
-    <editor active="true" />
+    <frame x="262" y="106" width="1508" height="770" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21768707" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32993197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -246,13 +267,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week1/Project1.py" />
-    <entry file="file://$PROJECT_DIR$/week1/Rock-paper-scissors-lizard-Spock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week2/Quiz2a.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -260,8 +274,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week3/111.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/week3/111.py" />
+    <entry file="file://$PROJECT_DIR$/week1/Rock-paper-scissors-lizard-Spock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week3/Guess_the_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2646">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
