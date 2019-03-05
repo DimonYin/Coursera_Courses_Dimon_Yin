@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80520405-dca3-4e03-a273-5e67efa7efc6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Homework1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework1.py" afterDir="false" />
+    <list default="true" id="7a57572f-0818-4953-abf1-88ecb3ca2e10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Principles of Computing (Part 1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Principles of Computing (Part 1)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Principles of Computing (Part 1)/Homework1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Principles of Computing (Part 1)/Homework1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +17,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Homework1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/week1.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -36,13 +36,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Homework1.py" />
+        <option value="$PROJECT_DIR$/Quiz5a.py" />
+        <option value="$PROJECT_DIR$/week1.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="602" />
-    <option name="y" value="54" />
+    <option name="x" value="178" />
+    <option name="y" value="57" />
     <option name="width" value="1400" />
     <option name="height" value="1100" />
   </component>
@@ -56,8 +57,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Principles of Computing (Part 1)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Principles of Computing (Part 1)" type="462c0819:PsiDirectoryNode" />
+              <item name="An Introduction to Interactive Programming in Python (Part 2)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="An Introduction to Interactive Programming in Python (Part 2)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -82,8 +83,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Homework1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Principles of Computing (Part 1)" />
+    <configuration name="Quiz5a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="An Introduction to Interactive Programming in Python (Part 2)" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -94,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework1.py" />
+      <option name="SCRIPT_NAME" value="E:\OneDrive\Dimon\Programming\PycharmProject\Coursera\An Introduction to Interactive Programming in Python (Part 2)\week1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Homework1" />
+        <item itemvalue="Python.Quiz5a" />
       </list>
     </recent_temporary>
   </component>
@@ -114,19 +115,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="80520405-dca3-4e03-a273-5e67efa7efc6" name="Default Changelist" comment="" />
-      <created>1547438814674</created>
+      <changelist id="7a57572f-0818-4953-abf1-88ecb3ca2e10" name="Default Changelist" comment="" />
+      <created>1547440661742</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547438814674</updated>
+      <updated>1547440661742</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="602" y="54" width="1400" height="1100" extended-state="0" />
+    <frame x="178" y="57" width="1400" height="1100" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17841409" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34801763" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -146,12 +147,8 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Homework1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/week1.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
