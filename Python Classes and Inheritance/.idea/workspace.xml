@@ -2,31 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c5ef588-3521-4c3a-bc6b-cf49a796d8d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/Adding Other Methods to a Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/Adding Parameters to the Constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/Class Variables and Instance Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/Converting an Object to a String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/Instances as Return Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/Objects as Arguments and Parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/Sorting Lists of Instances.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/User Defined Classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1/course_4_assessment_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/Inheriting Variables and Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/Invoking the Parent Class’s Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/Overriding Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/course_4_assessment_2_q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/course_4_assessment_2_q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/course_4_assessment_2_q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2/the Tamagotchi game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Final Project_Wheel of Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Program Development.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Test Cases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Testing classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/Writing Test Cases for Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/course_4_assessment_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/course_4_assessment_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/course_4_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/A Tamagotchi Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week3.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,44 +46,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/week2.py" />
-        <option value="$PROJECT_DIR$/Week3.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="71" />
-    <option name="y" value="41" />
-    <option name="width" value="1750" />
-    <option name="height" value="980" />
-  </component>
+  <component name="ProjectId" id="1OT7yIBKG1H7WUM6u62wpU2YuSF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Python Classes and Inheritance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python Classes and Inheritance" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OneDrive\Dimon\Programming\PycharmProject\Coursera\Python Classes and Inheritance\Week2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,8 +77,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="week2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.course_4_assessment_1">
+    <configuration name="A Tamagotchi Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Classes and Inheritance" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +86,100 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week1/A Tamagotchi Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Converting an Object to a String" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Classes and Inheritance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week1/Converting an Object to a String.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Instances as Return Values" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Classes and Inheritance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week1/Instances as Return Values.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sorting Lists of Instances" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Classes and Inheritance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week1/Sorting Lists of Instances.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="course_4_assessment_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Classes and Inheritance" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week1/course_4_assessment_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.week2" />
+        <item itemvalue="Python.course_4_assessment_1" />
+        <item itemvalue="Python.A Tamagotchi Game" />
+        <item itemvalue="Python.Sorting Lists of Instances" />
+        <item itemvalue="Python.Instances as Return Values" />
+        <item itemvalue="Python.Converting an Object to a String" />
       </list>
     </recent_temporary>
   </component>
@@ -127,41 +208,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563679206192</updated>
+      <workItem from="1564030828564" duration="17000" />
+      <workItem from="1564044446134" duration="316000" />
+      <workItem from="1564067469649" duration="11152000" />
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="57" y="33" width="1400" height="784" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297546" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3297546" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week3.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Classes_and_Inheritance$A_Tamagotchi_Game.coverage" NAME="A Tamagotchi Game Coverage Results" MODIFIED="1564081383974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/Python_Classes_and_Inheritance$Instances_as_Return_Values.coverage" NAME="Instances as Return Values Coverage Results" MODIFIED="1564080921695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/Python_Classes_and_Inheritance$Objects_as_Arguments_and_Parameters.coverage" NAME="Objects as Arguments and Parameters Coverage Results" MODIFIED="1564080704759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/Python_Classes_and_Inheritance$Final_Project_Wheel_of_Python.coverage" NAME="Final Project_Wheel of Python Coverage Results" MODIFIED="1564079722028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3" />
+    <SUITE FILE_PATH="coverage/Python_Classes_and_Inheritance$Adding_Parameters_to_the_Constructor.coverage" NAME="Adding Parameters to the Constructor Coverage Results" MODIFIED="1564080138447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/Python_Classes_and_Inheritance$User_Defined_Classes.coverage" NAME="User Defined Classes Coverage Results" MODIFIED="1564080007203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/Python_Classes_and_Inheritance$course_4_project.coverage" NAME="course_4_project Coverage Results" MODIFIED="1564079421113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week3" />
+    <SUITE FILE_PATH="coverage/Python_Classes_and_Inheritance$course_4_assessment_1.coverage" NAME="course_4_assessment_1 Coverage Results" MODIFIED="1564081647077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/Python_Classes_and_Inheritance$Converting_an_Object_to_a_String.coverage" NAME="Converting an Object to a String Coverage Results" MODIFIED="1564080844520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/Python_Classes_and_Inheritance$Adding_Other_Methods_to_a_Class.coverage" NAME="Adding Other Methods to a Class Coverage Results" MODIFIED="1564080526388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
+    <SUITE FILE_PATH="coverage/Python_Classes_and_Inheritance$Sorting_Lists_of_Instances.coverage" NAME="Sorting Lists of Instances Coverage Results" MODIFIED="1564080977037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Week1" />
   </component>
 </project>
