@@ -2,94 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe7b9044-1f5e-41f9-b8bf-ce463b0497e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Representations/Dimon_find_prime_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Representations/example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Representations/example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Representations/example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Representations/finalproject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Representations/homework1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Representations/tupleexample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/Project1_CreatingLinePlotsofGDPData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/gdptable1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/gdptable2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/gdptable3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/isp_gdp.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/isp_gdp_xy_china.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/isp_gdp_xy_none.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/isp_gdp_xy_uk+usa.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/table1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/table2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/table3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/table4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/table5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/table6.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week2/table7.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week3/Project_Plotting_GDP_Data_on_a_World_Map_Part_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week3/gdptable1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week3/gdptable2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week3/gdptable3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week3/isp_gdp.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week3/table1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week3/table2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week3/table3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week3/table4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week3/table5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week3/table6.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week3/table7.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/Project_Plotting_GDP_Data_on_a_World_Map_Part2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/code1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/code2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/code3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/code4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/gdptable1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/gdptable2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/gdptable3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/isp_country_codes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/isp_gdp.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/table1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/table2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/table3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/table4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/table5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/table6.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Introduction to Scripting in Python Specialization/Python Data Visualization/Week4/table7.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/.idea/Python 3 Programming Specialization.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week1/A Tamagotchi Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week1/Adding Other Methods to a Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week1/Adding Parameters to the Constructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week1/Class Variables and Instance Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week1/Converting an Object to a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week1/Instances as Return Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week1/Objects as Arguments and Parameters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week1/Sorting Lists of Instances.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week1/User Defined Classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week1/course_4_assessment_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week2/Inheriting Variables and Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week2/Invoking the Parent Class’s Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week2/Overriding Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week2/course_4_assessment_2_q1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week2/course_4_assessment_2_q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week2/course_4_assessment_2_q3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week2/the Tamagotchi game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week3/Final Project_Wheel of Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week3/Program Development.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week3/Test Cases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week3/Testing classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week3/Writing Test Cases for Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week3/course_4_assessment_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week3/course_4_assessment_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Classes and Inheritance/Week3/course_4_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Project _pillow _tesseract and opencv/Assignment 1_Building a Better Contact Sheet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python 3 Programming Specialization/Python Project _pillow _tesseract and opencv/Assignment2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning/Week1/Quiz1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning/Week2/Quiz2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning/Week3/Quiz3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning/Week4/Quiz4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -141,6 +53,9 @@
       <option name="presentableId" value="Default" />
       <updated>1565212725802</updated>
       <workItem from="1565212726909" duration="134000" />
+      <workItem from="1565261404840" duration="307000" />
+      <workItem from="1565376235838" duration="20000" />
+      <workItem from="1568121106618" duration="5000" />
     </task>
     <servers />
   </component>
@@ -152,7 +67,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
