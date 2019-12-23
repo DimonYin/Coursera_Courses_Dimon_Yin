@@ -1,19 +1,51 @@
 # Uses python3
-import sys
 
-def get_fibonacci_huge_naive(n, m):
+
+# Get fibonacci number
+def get_fibonacci(n):
+    # Create an array list of index
+    FibList = [x for x in range(n + 1)]
+
+    # Get the length
+    length = len(FibList)
+
+    if length == 1:
+        return 0
+    elif length == 2:
+        return 1
+    else:
+        FibList[0] = 0
+        FibList[1] = 1
+
+        # Map the value from third index
+        for m in range(2, len(FibList)):
+            FibList[m] = (FibList[m - 1] + FibList[m - 2])
+
+        return FibList[-1]  # Return the last number
+
+
+def get_fibonacci_huge_fast(n, m):
     if n <= 1:
         return n
 
-    previous = 0
-    current  = 1
+    lis = [0, 1]
+    period = -1
+    for index in range(2, n + 1):
+        lis.append(0)  # add a value being modified next
+        lis[index] = (lis[index - 1] + lis[index - 2]) % m
+        # Find period
+        if lis[index] == 1 and lis[index - 1] == 0:
+            period = index - 1
+            break
+    if period < 2:
+        return get_fibonacci(n) % m
+    else:
+        return get_fibonacci(n % period) % m
 
-    for _ in range(n - 1):
-        previous, current = current, previous + current
 
-    return current % m
+input_numbers = input()
+n, m = map(int, input_numbers.split())
+print(get_fibonacci_huge_fast(n, m))
 
-if __name__ == '__main__':
-    input = sys.stdin.read();
-    n, m = map(int, input.split())
-    print(get_fibonacci_huge_naive(n, m))
+
+
